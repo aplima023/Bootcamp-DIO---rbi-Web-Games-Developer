@@ -1,3 +1,8 @@
+body {
+background: coral;
+
+}
+
 #title, subtitle, post_title {
 color: rgb(252, 17, 134); }
 
@@ -9,7 +14,7 @@ margin-bottom: 15px;
 }
 
 .post {
-background: white;
+background: pink;
 padding: 15px ;
 border: 3px solid black;
 margin-bottom: 15px ;
@@ -19,4 +24,8 @@ margin-bottom: 15px ;
 margin: 0;
 margin-bottom: 15px;
 
+}
+
+.post_image {
+margin-bottom: 15px;
 }
