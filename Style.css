@@ -50,5 +50,10 @@ text-transform: capitalize;
 
 .contacts_list{
   list-style-type: square;
+  padding-left: 15px;
+}
+
+.contacts_list li a{
+text-decoration: none;
 
 }
